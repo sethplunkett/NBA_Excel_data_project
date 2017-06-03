@@ -1,7 +1,3 @@
-Final Project- Math 425 		Seth Plunkett
-
-
-
 Introduction
 
 For this project, I analyzed a variety of statistics taken from the top 60 NBA players of the 2015-16 season, ranked by PER (player efficiency rating).  The data set contains several quantitative variables and two categorical variables, lottery selection and player position.  I first performed a 1-variable analysis on average points scored for the sample.  I then turned to a two-variable analysis that compared minutes per game and points scored. In the third section I created a confidence interval for the difference of proportion of draft lottery selections (players selected with the first 14 picks of the NBA draft) with above average EWAs (earned win average, explained in that section) for the sample. Finally, I conducted two hypothesis tests, one of which compared the difference of mean EWA among players from the lottery and the other which tests the independence of draft position and player position.  
